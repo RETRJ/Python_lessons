@@ -3,5 +3,6 @@
 def test_success():
     assert True, 'This test should pass.'
 
+
 def test_fail():
     assert False, 'This test should fail.'

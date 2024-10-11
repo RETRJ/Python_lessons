@@ -15,7 +15,7 @@ def test_b_float():
 
 def test_c_str():
     assert hasattr(task_types, 'c'), "The variable 'c' is not defined"
-    assert isinstance(task_types.c, str),  "The variable 'c' is not of type str"
+    assert isinstance(task_types.c, str), "The variable 'c' is not of type str"
 
 
 def test_d_bool():

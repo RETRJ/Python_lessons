@@ -13,4 +13,3 @@ a_new = float(a)
 # Let's make sure the variable a is an int and the variable a_new is a float.
 print(a, type(a))
 print(a_new, type(a_new))
-
